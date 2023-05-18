@@ -1,0 +1,9 @@
+
+                           Jak grac? 
+             w - idz do gory     → - strzal w prawo
+             a - idz w lewo      ← - strzal w lewo
+             d - idz w prawo     ↑ - strzal do gory
+             s - idz w dol       ↓ - strzal do dolu
+
+                    spacja - wykonaj akcje
+                  ( np. podnies, rozmawiaj ) 
